@@ -1,0 +1,8 @@
+urxvt*transparent: true
+urxvt*shading: 30
+urxvt*foreground: rgba:cccc/cccc/cccc/ffff
+urxvt*background: rgba:0000/0000/0000/ffff
+
+urxvt.font: xft:DejaVuSansMono:size=16
+
+urxvt.scrollBar: false
